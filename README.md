@@ -1,23 +1,3 @@
-[![N|Solid](https://png.pngtree.com/templates/20181023/technology-logo-template-png_37582.jpg)](https://png.pngtree.com/templates/20181023/technology-logo-template-png_37582.jpg)
-
-# Table of Contents
-- Introduction 
-- Development Technology 
-- Features 
-- Getting Started 
-- Usage 
-- Contributors 
-- Contact Information 
-# Introduction
-Local Dining Guide is a user-friendly platform that aims to connect users with local dining 
-options. It provides a rich and intuitive interface to search for restaurants, view their menus, 
-read reviews, and get directions. With a focus on enhancing the dining experience, this 
-software solution strives to bridge the gap between diners and local eateries.
-
-[![Banner](https://thumbs.dreamstime.com/b/resources-overlapping-letters-banner-colorful-squares-background-resources-colorful-vector-letters-banner-121154239.jpg)](https://github.com/arif-rahman-cse/group_4)
-
-## License
-This project is licensed under the [MIT License](https://opensource.org/license/mit/).
 # Local Dining Guide
 
 Web Based Dining Information Solution
@@ -55,6 +35,27 @@ Dining Guide has got you covered.
 - **User Accounts:** Create accounts to save favourite restaurants, track dining history, and receive personalized recommendations.
 
 _[Click](https://bjitacademy.com/) here for more details._
+
+# Getting Started
+_Follow these steps to get Local Dining Guide up and running on your local machine._
+## Prerequisites
+__Web Browser:__  Ensure you have a modern web browser installed to access the Local Dining
+Guide interface.
+__Internet Connection:__  A stable internet connection is required to fetch restaurant data and images.
+
+## Installation
+1. __Clone the Repository:__ Start by cloning this repository to your local machine.
+```sh
+git clone https://github.com/yourusername/local-dining-guide.git
+```
+2. __Navigate to Directory:__ Move into the project directory.
+```sh
+cd local-dining-guide
+```
+3. __Launch the Application:__ Open the index.html file in your web browser.
+```sh
+open index.html
+```
 
 ## Usage
 
