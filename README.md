@@ -8,6 +8,8 @@ provide users with comprehensive dining information, making it easy for them to 
 and discover local restaurants, cafes, and eateries. Whether you're a food enthusiast looking
 for new culinary experiences or a traveller seeking the best dining spots in town, Local 
 Dining Guide has got you covered.
+<br>
+<br>
 
 [![N|Solid](https://png.pngtree.com/templates/20181023/technology-logo-template-png_37582.jpg)](https://png.pngtree.com/templates/20181023/technology-logo-template-png_37582.jpg)
 
