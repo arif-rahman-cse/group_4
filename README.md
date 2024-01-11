@@ -1,3 +1,16 @@
+# Local Dining Guide
+
+Web Based Dining Information Solution
+
+<br>
+Welcome to the Local Dining Guide project! This web-based software solution is designed to
+provide users with comprehensive dining information, making it easy for them to explore 
+and discover local restaurants, cafes, and eateries. Whether you're a food enthusiast looking
+for new culinary experiences or a traveller seeking the best dining spots in town, Local 
+Dining Guide has got you covered.
+<br>
+<br>
+
 [![N|Solid](https://png.pngtree.com/templates/20181023/technology-logo-template-png_37582.jpg)](https://png.pngtree.com/templates/20181023/technology-logo-template-png_37582.jpg)
 
 # Table of Contents
@@ -18,17 +31,6 @@ software solution strives to bridge the gap between diners and local eateries.
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/license/mit/).
-
-# Local Dining Guide
-
-Web Based Dining Information Solution
-
-<br>
-Welcome to the Local Dining Guide project! This web-based software solution is designed to
-provide users with comprehensive dining information, making it easy for them to explore 
-and discover local restaurants, cafes, and eateries. Whether you're a food enthusiast looking
-for new culinary experiences or a traveller seeking the best dining spots in town, Local 
-Dining Guide has got you covered.
 
 ### Development Technology
 
